@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "pnpm",
+			"path": "../../../Desktop/pnpm"
+		}
+	],
+	"settings": {}
+}
